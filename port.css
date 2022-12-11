@@ -1,0 +1,162 @@
+body{
+    background-color:#1e272e;
+    color:white;
+}
+.hi_msg{
+    padding-top: 80px;
+}
+.hi_msg,.nava_msg,.web_msg{
+    padding-left:100px;
+}
+
+.per_img{
+    
+    border-radius: 150rem;
+    margin-left:100px
+}
+#names{
+    padding-top: 100px;
+}
+.nav_but{
+background-color:white;
+color:black;
+font-weight:600;
+padding: 2px 15px;
+border-radius:20px
+}
+.nav_but:hover{
+background-color:gold;
+color:white;
+}
+a:active{
+color:blue;
+}
+
+.header{
+background-color:#130f40;
+
+text-align: center;
+align-items: center;
+position: fixed;
+z-index: 1;
+
+margin-bottom: 100px;
+}
+.head_1{
+
+}
+.maincontain{
+
+    margin-top: 0px;
+    padding-top: 150px;
+    z-index: 2;
+   
+}
+.contain_project{
+margin-top: 1px;
+z-index: 2;
+}
+.contain_social{
+margin-top: 60px;
+
+z-index: 2;
+}
+.contain_education{
+margin-top: 60px;
+
+z-index: 2;
+}
+
+.education_card{
+z-index: 20;
+}
+
+.sss{
+
+align-items:center;
+display:flex;
+justify-content:center;
+flex-direction: column;
+z-index: 30;
+}
+.edu{
+
+width: 305px;
+height: 280px;
+border-radius: 10px;
+z-index:31;
+}
+.edu_1{
+width: 303px;
+height: 185px;
+background-color:#ced6e0;
+color:black;
+font-weight:500;
+border-top-left-radius:20px ;
+border-top-right-radius: 20px;
+z-index:32;
+
+}
+.edu_2{
+width: 303px;
+height: 93px;
+background-color:#182C61;
+font-weight:600;
+z-index:32;
+
+}
+.pro{
+width: 305px;
+height: 300px;
+border-radius: 10px;
+z-index:1;
+border-left:1px solid white;
+border-top:1px solid white;
+
+border-right:1px solid white;
+
+
+}
+.pro_1{
+height: 185px;
+width: 304px;
+
+z-index:2;
+}
+.pro_2{
+width: 303px;
+height: 113px;
+background-color:#1B1464;
+padding:0px;
+margin:0px;
+z-index:2;
+
+
+}
+.img_pro{
+border-top-left-radius:10px ;
+border-top-right-radius: 10px;
+}
+.icons{
+margin-left:10px;
+}
+.head_social{
+margin-left:80px;
+margin-bottom:17px;
+text-decoration: underline;
+}
+.cont_social{
+margin-left:80px
+}
+.contain_social{
+background-color: #130f40;
+}
+.social_direct{
+color:aliceblue;
+}
+h2{
+text-decoration: underline;
+}
+#edu_in{
+z-index:30;
+}
